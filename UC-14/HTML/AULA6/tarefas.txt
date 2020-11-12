@@ -8,7 +8,7 @@
 Cascading Style Sheet - CSS 
 inline - style="background:#b700ff"
 interna - <style>...</style>
-**** externa
+**** externa - crio um arquivo css externo, e no meu html eu faço um link para esse arquivo
 
 propriedade:valor
 - propriedade o que estou modificando
