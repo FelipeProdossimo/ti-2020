@@ -43,8 +43,10 @@ background:purple
 ```
 
  **RGB** --> CORES DIGITAIS
- **CMYK** --> IMPRESSÃO
 
+ **CMYK** --> IMPRESSÃO
+ 
+<br><br>
 
 ## SELECTOR CSS 
 seleção onde a regra css será aplicada
