@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    color: white;
+}
+
+body{
+    background: url(../images/fundo.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.conteudo-principal{
+    height: 100vh;
+    background: rgba(0,0,0,0.5);
+    padding-top: 10%;
+}
+
+.titulo{
+    font-size: 70px;
+}
+
+.data-inicio{
+    
+}
