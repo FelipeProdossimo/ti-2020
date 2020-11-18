@@ -1,9 +1,5 @@
 *{
     margin: 0;
-    /* margin-top: 10px;
-    margin-right: 0px;
-    margin-bottom: 10px;
-    margin-left: 0px; */
     font-family: arial;
     color:white
 }
@@ -40,9 +36,6 @@ body{
 a{
     text-decoration: none;
     border: 1px solid white;
-    /* border-bottom: 5px solid fuchsia;
-    border-right: none;
-    border-left: none; */
     padding: 10px 30px;
 }
 
