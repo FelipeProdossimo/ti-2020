@@ -64,3 +64,25 @@ h1 a:hover{
     width: 660px;
     float: left;
 }
+
+.lateral{
+    background: #8ee4af;
+    border: 1px solid #379683;
+    padding: 10px;
+    width: 260px;
+    float: right;
+}
+
+.lateral h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.lateral ol{
+    font-size: 12px;
+}
+
+.rodape{
+    font-size: 12px;
+    text-align: center;
+}
