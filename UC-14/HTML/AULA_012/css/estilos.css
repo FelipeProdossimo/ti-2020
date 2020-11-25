@@ -1,0 +1,20 @@
+body{
+    background: lightblue;
+}
+
+mark{
+    background: tomato;
+    color: white;
+}
+
+@font-face{
+    font-family: "Lobster";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Lobster"), url(/fonts/lobster.woff) format("woff");
+}
+
+
+h1{
+    font-family: "Lobster";
+}
