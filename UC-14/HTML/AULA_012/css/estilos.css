@@ -1,5 +1,6 @@
 body{
     background: lightblue;
+    font-family: "Open Sans";
 }
 
 mark{
@@ -7,14 +8,14 @@ mark{
     color: white;
 }
 
-@font-face{
+/* @font-face{
     font-family: "Lobster";
     font-style: normal;
     font-weight: normal;
     src: local("Lobster"), url(/fonts/lobster.woff) format("woff");
-}
+} */
 
 
-h1{
-    font-family: "Lobster";
+h1, h2{
+    font-family: "Josefin Sans";
 }
