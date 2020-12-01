@@ -65,4 +65,66 @@ html,body{
 
 .imagem-pequena::after{
     content: '\276f';
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    bottom: 120px;
+    left: -100px;
+    font-size: 28px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    text-align: center;
+    transform: rotate(-90deg);
+}
+
+.imagem-pequena::before{
+    content: '\276f';
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    bottom: 30px; /* muda */
+    left: -100px;
+    font-size: 28px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    text-align: center;
+    transform: rotate(90deg);  /* muda */
+}
+
+.linha-1{
+    width: 2px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    right: -20px;
+    bottom: 34px;
+}
+
+.linha-1::after{
+    content: '02/04';
+    position: absolute;
+    top: -30px;
+    left: -17px;
+    transform: rotate(-90deg);
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+
+.menu-vertical{
+    position: absolute;
+    bottom: 235px;
+    left: -160px;
+    transform: rotate(-90deg);
+}
+
+.menu-vertical ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: white;
 }
