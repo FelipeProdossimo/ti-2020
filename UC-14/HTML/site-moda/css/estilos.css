@@ -128,3 +128,152 @@ html,body{
     letter-spacing: 1px;
     color: white;
 }
+
+/* COLUNA DA DIREITA */
+.direita-col{
+    flex-basis: 70%;
+    height: 100%;
+    position: relative;
+}
+
+.navbar{
+    position: absolute;
+    right: 45px;
+    top: 85px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar li{
+    list-style: none;
+    margin: 0 40px;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.linha-verde{
+    background: #383a2f;
+    height: 20px;
+    width: 280px;
+    position: absolute;
+    top: 180px;
+    left: 0;
+}
+
+.linha-verde span{
+    position: absolute;
+    background: #383a2f;
+    height: 20px;
+    width: 6px;
+    left: 287px;
+}
+
+.imagem-destacada{
+    position: absolute;
+    top: 160px;
+    right: 100px;
+    width: 373px;
+}
+
+.imagem-destacada video{
+    width: 373px;
+}
+
+
+
+.icone-menu-2{
+    float: right;
+    margin-bottom: 12px;
+}
+
+.linha-imagem-destacada{
+    background: #383a2f;
+    height: 7px;
+    width: 185px;
+    position: absolute;
+    right: 0;
+    bottom: -80px;
+}
+
+.linha-imagem-destacada span{
+    background: #383a2f;
+    height: 7px;
+    width: 7px;
+    position: absolute;
+    top: 0;
+    right: 192px;
+}
+
+.imagem-destacada h1{
+    position: absolute;
+    top: 41%;
+    right: 55%;
+    font-size: 85px;
+    font-weight: 300;
+    color: #efefef;
+    transform: rotate(-90deg);
+}
+
+.texto-destaque{
+    position: absolute;
+    top: 30%;
+    left: 4%;
+    width: 460px;
+}
+
+.texto-destaque h2{
+    font-size: 62px;
+    font-weight: 100;
+    line-height: 60px;
+}
+
+.texto-destaque p{
+    font-size: 18px;
+    margin-top: 30px;
+    color: #555555;
+    padding-right: 20px;
+}
+
+.texto-destaque::after{
+    content: '\276f';
+    position: absolute;
+    bottom: -80px;
+    right: 40px;
+    font-size: 25px;
+    transform: rotate(90deg);
+}
+
+.linha-texto-destaque{
+    position: absolute;
+    width: 70px;
+    height: 2px;
+    background: black;
+    bottom: -60px;
+    right: 85px;
+}
+
+.linha-texto-destaque span{
+    position: absolute;
+    background: black;
+    width: 5px;
+    height: 2px;
+    right: 75px;
+}
+
+.painel-icones{
+    width: 22px;
+    position: absolute;
+    right: 45px;
+    bottom: 20px;
+    text-align: center;
+}
+
+.redes-sociais img{
+    margin: 10px 0;
+}
+
+.icone-carrinho{
+    margin-top: 60px;
+}
