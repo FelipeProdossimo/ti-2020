@@ -1,4 +1,4 @@
-console.log("Olá");
+console.log("Guto Xavier");
 
 /* Boas práticas para nome de variáveis
  - não utilizar caracteres especiais
@@ -33,5 +33,18 @@ alert("Olá " + nome + " seja bem vindo!");
 
 let numero1 = prompt("Digite um número");
 let numero2 = prompt("Digite outro número");
+
+//se(numero > 20)
+if(numero1>20){
+    //escreva "número é maior que 20"
+    alert("Número é maior que 20");
+}
+//senão
+else
+{
+    //escreva "número é menor do que 20"
+    alert("Número é menor que 20");
+}
+//fim se
 
 alert(numero1 * numero2);
