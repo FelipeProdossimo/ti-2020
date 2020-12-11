@@ -33,3 +33,8 @@ function Calcular(){
     //mostrar o resultado do cálculo no visor no visor
     document.getElementById("visor").value = resultado;
 }
+
+function Apagar(){
+    let conteudo = document.getElementById("visor").value;
+    document.getElementById("visor").value = conteudo.substring(0, conteudo.length - 1);
+}
