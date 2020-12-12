@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,7 +8,16 @@
     <link rel="shortcut icon" href="images/favicon.png">
 </head>
 <body>
-    
+    <h1>Agenda Telefônica</h1>
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome"> <br>
+        <label for="telefone">Telefone:</label>
+        <input type="text" id="telefone"> <br>
+        <button type="button" onclick="Salvar();">SALVAR</button>
+    </form>
+    <ul id="agenda"></ul>
+
     <script src="js/funcoes.js"></script>
 </body>
 </html>
