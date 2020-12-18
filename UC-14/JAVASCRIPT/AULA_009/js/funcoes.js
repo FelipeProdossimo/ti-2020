@@ -90,3 +90,15 @@ for(let i = 0 ; i < listaDeFrutas.length ; i++){
     console.log(listaDeFrutas[i]);
 }
 
+console.clear();
+
+// Math.random() * (max - min) + min;
+let numeroComputador = parseInt(Math.random() * (10 - 1) + 1);
+console.log(numeroComputador);
+let numeroJogador = prompt("Informe um número de 1 à 10");
+
+if(numeroJogador == numeroComputador){
+    console.log("Você Ganhou");
+}else{
+    console.log("Você perdeu");
+}
