@@ -153,13 +153,149 @@ A partir dessa atividade começaremos a trabalhar com CSS também. Vamos criar a
 
 _____________
 
-## Atividade 10
+## Atividade 11
 Crie uma tabela para exibir os 3 primeiros clubes que estão na frente do campeonato brasileiro 2020.
 
 ![](images/011.png)
 
-### 010.html
+### 011.html
 ![](images/011-html.png)
 
-### 010.css
+### 011.css
 ![](images/011-css.png)
+
+_____________
+
+## Atividade 12
+Crie um formulário para cadastro de básico de um currículo.
+
+![](images/012.png)
+
+### 012.html
+![](images/012-html.png)
+
+_____________
+
+## Atividade 13
+Crie um formulário para o usuário poder enviar uma mensagem pelo site.
+
+![](images/013.png)
+
+### 013.html
+![](images/013-html.png)
+
+### 013.css
+![](images/013aa-css.png)
+![](images/013b-css.png)
+
+
+_____________
+
+## Atividade 14
+Crie um formulário para abertura de um atendimento de suporte técnico.
+
+![](images/014.png)
+
+### 014.html
+![](images/014-html.png)
+![](images/014-html-b.png)
+
+### 014.css
+![](images/014-css.png)
+![](images/014-css-b.png)
+![](images/014-css-c.png)
+
+
+_____________
+
+## Atividade 15
+Crie um formulário para o cadastro de estudantes de uma escola de cursos técnicos.
+
+![](images/015.png)
+
+### 015.html
+![](images/015-html.png)
+![](images/015-html-b.png)
+
+### 015.css
+![](images/015-css.png) 
+![](images/015-css-b.png)
+![](images/015-css-c.png)
+![](images/015-css-d.png)
+
+
+
+_____________
+
+## Atividade 16
+Crie uma página que apresente a história de Machu Picchu e que tenha um vídeo de apresentação.
+
+![](images/016.png)
+
+### 016.html
+![](images/016-html.png)
+
+### 016.css
+![](images/016-css.png) 
+
+
+_____________
+
+## Atividade 17
+Crie uma página que apresente a história de Machu Picchu com o conteúdo dividido em duas colunas.
+
+![](images/017.png)
+
+### 017.html
+![](images/017-html.png)
+
+### 017.css
+![](images/017-css.png) 
+
+_____________
+
+## Atividade 18
+Crie um site para uma agência de turismo, esse site terá a área do cabeçalho e duas colunas de conteúdo.
+
+![](images/018.png)
+
+### 018.html
+![](images/018-html.png)
+![](images/018-html-b.png)
+
+### 018.css
+![](images/018-css.png) 
+![](images/018-css-b.png) 
+
+
+_____________
+
+## Atividade 19
+Crie a página inicial de um site de uma escola de cursos online.
+
+![](images/019.png)
+
+### 018.html
+![](images/019-html.png)
+![](images/019-html-b.png)
+
+### 018.css
+![](images/019-css.png) 
+![](images/019-css-b.png) 
+
+
+
+_____________
+
+## Atividade 20
+Crie uma página para divulgar os filmes de 2021
+
+![](images/020.png)
+
+### 018.html
+![](images/020-html.png)
+![](images/020-html-b.png)
+
+### 018.css
+![](images/020-css.png) 
+![](images/020-css-b.png) 
