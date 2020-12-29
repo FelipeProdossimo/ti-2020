@@ -168,16 +168,24 @@ _____________
 ## Atividade 14
 As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contrataram para desenvolver o programa que calculará os reajustes.
 Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
-salários até R$ 280,00 (incluindo) : aumento de 20%
-salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
-salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
-salários de R$ 1500,00 em diante : aumento de 5% Após o aumento ser realizado, informe na tela:
-o salário antes do reajuste;
-o percentual de aumento aplicado;
-o valor do aumento;
-o novo salário, após o aumento.
+- salários até R$ 280,00 (incluindo) : aumento de 20%
+- salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
+- salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
+- salários de R$ 1500,00 em diante : aumento de 5% 
 
+Após o aumento ser realizado, informe na tela:
+- o salário antes do reajuste;
+- o percentual de aumento aplicado;
+- o valor do aumento;
+- o novo salário, após o aumento.
 
+![](images/014.png)
+
+### 014.html
+![](images/0q4-html.png)
+
+### 014.js
+![](images/014-js.png)
 _____________
 
 
@@ -193,7 +201,13 @@ Faça um programa que lê as duas notas parciais obtidas por um aluno numa disci
   
 O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
 
+![](images/015.png)
 
+### 015.html
+![](images/015-html.png)
+
+### 015.js
+![](images/015-js.png)
 _____________
 
 
@@ -201,7 +215,13 @@ _____________
 Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
 
 
+![](images/016.png)
 
+### 016.html
+![](images/016-html.png)
+
+### 016.js
+![](images/016-js.png)
 
 _____________
 
@@ -209,7 +229,13 @@ _____________
 ## Atividade 17
 Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
 
+![](images/017.png)
 
+### 015.html
+![](images/017-html.png)
+
+### 017.js
+![](images/017-js.png)
 
 
 
@@ -221,23 +247,41 @@ Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual ope
 par ou ímpar;
 positivo ou negativo;
 
+![](images/018.png)
 
+### 018.html
+![](images/018-html.png)
+
+### 018.js
+![](images/018-js.png)
 
 
 _____________
 
 
 ## Atividade 19
-Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro. Depois modifique o programa para que ele mostre os números um ao lado do outro.
+Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro.
 
+![](images/019.png)
 
+### 019.html
+![](images/019-html.png)
+
+### 019.js
+![](images/019-js.png)
 
 _____________
 
 
 ## Atividade 20
 Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
+![](images/020.png)
 
+### 020.html
+![](images/020-html.png)
+
+### 020.js
+![](images/020-js.png)
 
 _____________
 
@@ -245,14 +289,26 @@ _____________
 ## Atividade 21
 Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles.
 
+![](images/021.png)
 
+### 021.html
+![](images/021-html.png)
+
+### 021.js
+![](images/021-js.png)
 _____________
 
 
 ## Atividade 22
 Altere o programa anterior para mostrar no final a soma dos números.
 
+![](images/022.png)
 
+### 022.html
+![](images/022-html.png)
+
+### 022.js
+![](images/022-js.png)
 
 _____________
 
