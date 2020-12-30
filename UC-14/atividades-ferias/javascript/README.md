@@ -1,4 +1,3 @@
-***IMPORTANTE***: Todas as imagens necessárias para as atividades estão disponíveis na pasta ``img`` dentro desse repositório. 
 
 ## Atividade 1
 Faça um Programa que mostre a mensagem "Alo mundo" na tela.
@@ -60,18 +59,20 @@ _____________
 
 ## Atividade 7
 Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
-- salário bruto.
-- quanto pagou ao INSS.
-- quanto pagou ao sindicato.
-- o salário líquido.
-
+<pre>
+  salário bruto.
+  quanto pagou ao INSS.
+  quanto pagou ao sindicato.
+  o salário líquido.
+</pre>
 calcule os descontos e o salário líquido, conforme a tabela abaixo:
-- +Salário Bruto : R$
-- -IR (11%) : R$
-- -INSS (8%) : R$
-- -Sindicato ( 5%) : R$
-- =Salário Liquido : R$
-
+<pre>
+  +Salário Bruto : R$
+  -IR (11%) : R$
+  -INSS (8%) : R$
+  -Sindicato ( 5%) : R$
+  =Salário Liquido : R$
+</pre>
 Obs.: Salário Bruto - (IR + INSS + Sindicato) = Salário Líquido.
 
 ![](images/007.png)
@@ -126,9 +127,9 @@ _____________
 
 ## Atividade 11
 Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
-A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
-A mensagem "Reprovado", se a média for menor do que sete;
-A mensagem "Aprovado com Distinção", se a média for igual a dez.
+- A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
+- A mensagem "Reprovado", se a média for menor do que sete;
+- A mensagem "Aprovado com Distinção", se a média for igual a dez.
 
 
 ![](images/011.png)
@@ -191,14 +192,14 @@ _____________
 
 ## Atividade 15
 Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
-
+<pre>
   Média de Aproveitamento  Conceito
   Entre 9.0 e 10.0          A
   Entre 7.5 e 9.0           B
   Entre 6.0 e 7.5           C
   Entre 4.0 e 6.0           D
   Entre 4.0 e zero          
-  
+</pre>
 O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
 
 ![](images/015.png)
@@ -315,59 +316,96 @@ _____________
 
 ## Atividade 23
 Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo:
+<pre>
 Tabuada de 5:
 5 X 1 = 5
 5 X 2 = 10
 ...
 5 X 10 = 50
+</pre>
 
+![](images/023.png)
 
+### 023.html
+![](images/023-html.png)
+
+### 023.js
+![](images/023-js.png)
 _____________
 
 
 ## Atividade 24
 Faça um programa que calcule o número médio de alunos por turma. Para isto, peça a quantidade de turmas e a quantidade de alunos para cada turma. As turmas não podem ter mais de 40 alunos.
 
+![](images/024.png)
+
+### 024.html
+![](images/024-html.png)
+
+### 024.js
+![](images/024-js.png)
 _____________
 
 
 ## Atividade 25
 Faça um programa que calcule o valor total investido por um colecionador em sua coleção de CDs e o valor médio gasto em cada um deles. O usuário deverá informar a quantidade de CDs e o valor para em cada um.
 
+![](images/025.png)
 
+### 025.html
+![](images/025-html.png)
+
+### 025.js
+![](images/025-js.png)
 
 _____________
 
 
 ## Atividade 26
 O Sr. Manoel Joaquim possui uma grande loja de artigos de R$ 1,99, com cerca de 10 caixas. Para agilizar o cálculo de quanto cada cliente deve pagar ele desenvolveu um tabela que contém o número de itens que o cliente comprou e ao lado o valor da conta. Desta forma a atendente do caixa precisa apenas contar quantos itens o cliente está levando e olhar na tabela de preços. Você foi contratado para desenvolver o programa que monta esta tabela de preços, que conterá os preços de 1 até 50 produtos, conforme o exemplo abaixo:
+<pre>
 Lojas Quase Dois - Tabela de preços
 1 - R$ 1.99
 2 - R$ 3.98
 ...
 50 - R$ 99.50
+</pre>
 
+![](images/026.png)
 
+### 026.html
+![](images/026-html.png)
 
+### 026.js
+![](images/026-js.png)
 
 _____________
 
 
 ## Atividade 27
 O Sr. Manoel Joaquim acaba de adquirir uma panificadora e pretende implantar a metodologia da tabelinha, que já é um sucesso na sua loja de 1,99. Você foi contratado para desenvolver o programa que monta a tabela de preços de pães, de 1 até 50 pães, a partir do preço do pão informado pelo usuário, conforme o exemplo abaixo:
+<pre>
 Preço do pão: R$ 0.18
 Panificadora Pão de Ontem - Tabela de preços
 1 - R$ 0.18
 2 - R$ 0.36
 ...
 50 - R$ 9.00
+</pre>
 
+![](images/027.png)
 
+### 027.html
+![](images/027-html.png)
+
+### 027.js
+![](images/027-js.png)
 _____________
 
 
 ## Atividade 28
 O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e agora possui uma loja de conveniências. Faça um programa que implemente uma caixa registradora rudimentar. O programa deverá receber um número desconhecido de valores referentes aos preços das mercadorias. Um valor zero deve ser informado pelo operador para indicar o final da compra. O programa deve então mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para então calcular e mostrar o valor do troco. Após esta operação, o programa deverá voltar ao ponto inicial, para registrar a próxima compra. A saída deve ser conforme o exemplo abaixo:
+<pre>
 Lojas Tabajara 
 Produto 1: R$ 2.20
 Produto 2: R$ 5.80
@@ -376,13 +414,20 @@ Total: R$ 9.00
 Dinheiro: R$ 20.00
 Troco: R$ 11.00
 ...
+</pre>
+![](images/028.png)
 
+### 028.html
+![](images/028-html.png)
 
+### 028.js
+![](images/028-js.png)
 _____________
 
 
 ## Atividade 29
 Desenvolva um programa que faça a tabuada de um número qualquer inteiro que será digitado pelo usuário, mas a tabuada não deve necessariamente iniciar em 1 e terminar em 10, o valor inicial e final devem ser informados também pelo usuário, conforme exemplo abaixo:
+<pre>
 Montar a tabuada de: 5
 Começar por: 4
 Terminar em: 7
@@ -392,20 +437,13 @@ Vou montar a tabuada de 5 começando em 4 e terminando em 7:
 5 X 5 = 25
 5 X 6 = 30
 5 X 7 = 35
+</pre>
 Obs: Você deve verificar se o usuário não digitou o final menor que o inicial.
 
-_____________
+![](images/029.png)
 
+### 029.html
+![](images/029-html.png)
 
-## Atividade 29
-Desenvolva um programa que faça a tabuada de um número qualquer inteiro que será digitado pelo usuário, mas a tabuada não deve necessariamente iniciar em 1 e terminar em 10, o valor inicial e final devem ser informados também pelo usuário, conforme exemplo abaixo:
-Montar a tabuada de: 5
-Começar por: 4
-Terminar em: 7
-
-Vou montar a tabuada de 5 começando em 4 e terminando em 7:
-5 X 4 = 20
-5 X 5 = 25
-5 X 6 = 30
-5 X 7 = 35
-Obs: Você deve verificar se o usuário não digitou o final menor que o inicial.
+### 029.js
+![](images/029-js.png)
