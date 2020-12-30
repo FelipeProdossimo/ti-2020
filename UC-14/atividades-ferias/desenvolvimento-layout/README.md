@@ -1,8 +1,25 @@
-***IMPORTANTE***: Todas as imagens necessárias para as atividades estão disponíveis na pasta ``img-nome-do-projeto`` dentro desse repositório. 
+***IMPORTANTE***: Todas os itens necessários para as atividades estão disponíveis na pasta ``nome-do-projeto`` dentro desse repositório. 
 
 ## Player
 
 ![](images/001.png)
+
+
+### index.html
+![](images/001-html-a.png)
+![](images/001-html-b.png)
+
+### estilo.css
+![](images/001-css-a.png)
+![](images/001-css-b.png)
+![](images/001-css-c.png)
+![](images/001-css-d.png)
+
+### funcoes.js
+![](images/001-js-a.png)
+![](images/001-js-b.png)
+![](images/001-js-c.png)
+![](images/001-js-d.png) 
 
 _____
 
