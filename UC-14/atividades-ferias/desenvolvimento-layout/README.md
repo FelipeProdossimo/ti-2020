@@ -23,34 +23,44 @@
 
 _____
 
+_____
 
+## Jogo: Pedra Papel Tesoura
 
-## Página de Login
+### index.html
+![](images/002-html.png)
 
-![](images/002.png)
+### estilo.css
+![](images/002-css-a.png)
+![](images/002-css-b.png)
+![](images/002-css-c.png)
+
+### funcoes.js
+![](images/002-js.png)
 
 _____
 
-## App
+_____
+
+## Página de Login
 
 ![](images/003.png)
 
 _____
 
-
-
-## Modelo de site
+## App
 
 ![](images/004.png)
 
-____
+_____
+
+
 
 ## Modelo de site
 
 ![](images/005.png)
 
 ____
-
 
 ## Modelo de site
 
@@ -69,4 +79,11 @@ ____
 ## Modelo de site
 
 ![](images/008.png)
+
+____
+
+
+## Modelo de site
+
+![](images/009.png)
 
