@@ -26,7 +26,7 @@ _____
 _____
 
 ## Jogo: Pedra Papel Tesoura
-
+![](images/002.png)
 ### index.html
 ![](images/002-html.png)
 
