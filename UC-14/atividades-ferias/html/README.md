@@ -202,8 +202,9 @@ Crie um formulário para abertura de um atendimento de suporte técnico.
 
 ### 014.css
 ![](images/014-css.png)
+![](images/014-css-a.png)
 ![](images/014-css-b.png)
-![](images/014-css-c.png)
+
 
 
 _____________
